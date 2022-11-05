@@ -5,7 +5,6 @@ const request=require('request-promise')
 const app=express();
 
 const PORT=process.env.PORT || 4000;
-// const apiKey="ecefb97f9c344154dbb9acee0bc44501";
 
 // const generateScraperUrl(api_key)=`http://api.scraperapi.com?api_key=${api_key}&autoparse=true`;
 
